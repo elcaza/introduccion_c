@@ -7,3 +7,6 @@ Instalación de herramientas básicas
 ```bash
 sudo apt install build-essential
 ```
+
+## Links de interes
++ http://www.chuidiang.org/clinux/herramientas/makefile.php
